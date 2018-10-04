@@ -1,7 +1,3 @@
-# hello-world
+# This is my notes
 
-### Just another repository
-
-I'm a konjac,a green hand.
-
->Welcome to visit here.
+>2018/10/03 Registered a github account.O(∩_∩)O~~ 
